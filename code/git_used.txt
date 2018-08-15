@@ -1,3 +1,6 @@
 1.创建公钥  ssh-keygen -t rsa -C "467029711@qq.com"
 2.验证是否成功  ssh -T git@github.com  
 3.Are you sure you want to continue connecting (yes/no)? yes
+4.git config --global user.email "you@example.com"
+5.git config --global user.name "Your Name"
+
